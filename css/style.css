@@ -164,7 +164,7 @@ body{
 .item--css{
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 20%;
     font-size: 2rem;
     color: rgba(255, 255, 255, 0.7);
 }
